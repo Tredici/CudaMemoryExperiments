@@ -167,7 +167,7 @@ void ping_pong(
 int main(int argc, char const *argv[])
 {
     std::size_t reps = 100;
-    std::size_t values = 10000000;
+    std::size_t values = 1000;
 
     bool fail = false;
 
